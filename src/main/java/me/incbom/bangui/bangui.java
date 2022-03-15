@@ -1,7 +1,7 @@
 package me.incbom.bangui;
 
-import me.kodysimpson.bangui.commands.BanGUICommand;
-import me.kodysimpson.bangui.listener.BanInventoryListener;
+import me.incbom.bangui.commands.BanGUICommand;
+import me.incbom.bangui.listener.BanInventoryListener;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class BanGUI extends JavaPlugin {
